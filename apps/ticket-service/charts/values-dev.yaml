@@ -9,7 +9,7 @@ containerPort: 8080
 
 image:
   repository: seminariojalapa/dev-ticket-service
-  tag: '1'
+  tag: 'latest'
   pullPolicy: Always
 
 imagePullSecrets: []
